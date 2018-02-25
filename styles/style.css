@@ -1,0 +1,11 @@
+
+.avatar img {
+  border-radius:50%;
+  height:60px;
+}
+#final:target {
+  background-color:red;
+}
+p:nth-child(3){
+  background-color: green;
+}
